@@ -1,0 +1,50 @@
+body { 
+width:90%;
+margin: 2%;
+font-family:sans-serif;
+font-size: 1em;
+line-height: 1.4; }
+
+p{
+font-weight: bold;
+}
+
+li{
+list-style-type: circle;
+}
+
+canvas {
+display: inline-block;
+*display: inline; 
+*zoom: 1; }
+
+button{ 
+line-height: normal;
+ }
+
+button{
+cursor: pointer;
+-webkit-appearance: button; 
+*overflow: visible; }
+
+div[role=main] {
+  margin: 25px;
+}
+
+.life-game {
+  border: 1px solid #ccc;
+  display:block;
+  margin-bottom: 10px;
+}
+
+footer{
+text-align:center;
+}
+
+
+
+
+
+
+
+
